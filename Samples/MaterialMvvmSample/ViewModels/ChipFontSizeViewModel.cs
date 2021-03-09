@@ -2,8 +2,11 @@
 {
     public class ChipFontSizeViewModel : BaseViewModel
     {
+    
         public ChipFontSizeViewModel()
         {
         }
+        
+        
     }
 }
